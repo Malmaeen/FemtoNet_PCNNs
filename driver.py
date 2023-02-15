@@ -11,7 +11,7 @@ if __name__ == "__main__":
     PCNNs_Model.normalized_data()
     PCNNs_Model.split_train_test()
     ## -- train PCNNs
-    PCNNs_Model.train()
+    #PCNNs_Model.train()
     ## -- Testing 
     PCNNs_Model.plot_result_1()
     PCNNs_Model.plot_result_2()
