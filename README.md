@@ -1,7 +1,7 @@
 # Physics Conatrained Deep Neural Networks (PCNNs) For DVCS Cross Sections
 
 - This is the implementation of PCNNs of our paper (**"Defining the Benchmarks for a Global Extraction of Information from Deeply Virtual Exclusive Scattering"**), https://arxiv.org/abs/2207.10766 .
-- PCNNs is a neural network that incorporates some of the physics knowledge. In particular: error bars and Parity Invariance constraints
+- PCNNs is a neural network that incorporates some of the physics knowledge. In particular: error bars and Parity Invariance constraints.
 
 
    <img src="saved/arch_pcnns.png" width="650"> 
