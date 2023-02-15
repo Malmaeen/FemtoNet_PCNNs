@@ -12,7 +12,7 @@ if __name__ == "__main__":
     PCNNs_Model.split_train_test()
     ## -- train PCNNs
     #PCNNs_Model.train()
-    ## -- Testing 
+    ## -- Testing using the saved model
     PCNNs_Model.plot_result_1()
     PCNNs_Model.plot_result_2()
     
